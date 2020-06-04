@@ -1,0 +1,24 @@
+{
+  "name": "working-folder",
+  "version": "1.0.0",
+  "description": "This is the test directoy  to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshitPatel25/Full-Stack-Dev.git"
+  },
+  "author": "Harshit Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshitPatel25/Full-Stack-Dev/issues"
+  },
+  "homepage": "https://github.com/HarshitPatel25/Full-Stack-Dev#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
